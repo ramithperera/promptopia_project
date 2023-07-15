@@ -19,7 +19,7 @@ Before starting this project make sure that you have installed all of these prer
     MONGODB_URI=your_mongodb_connection_string
     NEXTAUTH_URL=http://localhost:3000
     NEXTAUTH_URL_INTERNAL=http://localhost:3000
-    NEXTAUTH_SECRET=[your next auth secret](https://next-auth.js.org/configuration/options#secret) 
+    NEXTAUTH_SECRET=your next auth secret 
     
     ```
 
@@ -47,4 +47,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Sneak peek of the app
 
-![HomePage](prompto.png)
+![prompt home page](https://github.com/ramithperera/promptopia_project/assets/89182652/925901fd-3461-4bc4-8265-9e80d0b2a94d)
